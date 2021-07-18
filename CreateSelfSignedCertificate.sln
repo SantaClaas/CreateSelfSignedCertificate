@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateSelfSignedCertificate", "CreateSelfSignedCertificate\CreateSelfSignedCertificate.csproj", "{2C07B3F5-F43E-4D01-A63A-265BA727900A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C07B3F5-F43E-4D01-A63A-265BA727900A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C07B3F5-F43E-4D01-A63A-265BA727900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C07B3F5-F43E-4D01-A63A-265BA727900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C07B3F5-F43E-4D01-A63A-265BA727900A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7CBD41-CC8D-473D-9190-C540C84099C4}
+	EndGlobalSection
+EndGlobal
